@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/LockBox/static/css/main.4a89fcc7.css",
-    "main.js": "/LockBox/static/js/main.29964f92.js",
+    "main.css": "/LockBox/static/css/main.6d54ccfd.css",
+    "main.js": "/LockBox/static/js/main.6c773694.js",
     "index.html": "/LockBox/index.html",
-    "main.4a89fcc7.css.map": "/LockBox/static/css/main.4a89fcc7.css.map",
-    "main.29964f92.js.map": "/LockBox/static/js/main.29964f92.js.map"
+    "main.6d54ccfd.css.map": "/LockBox/static/css/main.6d54ccfd.css.map",
+    "main.6c773694.js.map": "/LockBox/static/js/main.6c773694.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a89fcc7.css",
-    "static/js/main.29964f92.js"
+    "static/css/main.6d54ccfd.css",
+    "static/js/main.6c773694.js"
   ]
 }
